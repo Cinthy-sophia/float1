@@ -1,5 +1,6 @@
 # float1
 ejercicio float columna 1
+
 <!DOCTYPE HTML>
 <html>
 <head>
